@@ -1,5 +1,7 @@
 ## Processes | Operating Systems
 
+This article is an extension of [this article - what happens when you run a program](https://blog.yuvv.xyz/what-happens-when-you-run-a-computer-program), I suggest you read that first.
+
 ## Process Concept
 
 - Process - a program in execution.
