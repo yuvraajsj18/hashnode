@@ -94,10 +94,6 @@ After termination, the OS will reclaim the memory provided to the program to run
 
 ---
 
-
-
-If you are interested in knowing more about **processes** and how to create and terminate processes programmatically [read this article](https://blog.yuvv.xyz/processes-in-operating-systems).
-
 #### References
 
 - Operating System Concepts - Book by Avi Silberschatz
