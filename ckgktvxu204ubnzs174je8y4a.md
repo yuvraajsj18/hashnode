@@ -371,7 +371,6 @@ C++ has more amazing and modern features contrary to the belief that it is an ol
 #### You may also like:
 
 - [How to Create Header Files in C++](https://blog.yuvv.xyz/how-to-create-header-files-in-cpp)
-
 - [What Happens When You Run a Computer Program?](https://blog.yuvv.xyz/what-happens-when-you-run-a-computer-program)
 - [Comprehensions in Python: Explained](https://blog.yuvv.xyz/comprehensions-in-python-explained)
 - [Linux Commands Reference With Examples](https://blog.yuvv.xyz/linux-commands-reference-with-examples)
