@@ -6,7 +6,7 @@ In this article, I have shown a few features that you may know from Python or Ja
 
 > This article is for people with a basic understanding of C++
 
-## Table of Content
+## Table of Contents
 
 - [Templates](#templates)
 - [Auto](#auto)
