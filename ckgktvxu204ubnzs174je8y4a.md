@@ -235,7 +235,6 @@ for (int x : numbers)
 for (auto ch : alphabets)	// Notice the use of auto - Recommended
 	std::cout << ch << " ";
 
-// With arrays
 for (auto i : {1, 2, 3})
         std::cout << i << " ";	// 1 2 3
 
