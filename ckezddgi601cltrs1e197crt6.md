@@ -101,7 +101,14 @@ After termination, the OS will reclaim the memory provided to the program to run
 
 Hope you found this article helpful and interesting, if you have any feedback please comment down below!
 
-You can connect with me on [Twitter](https://twitter.com/yuvraajsj18) and [LinkedIn](https://linkedin.com/in/yuvraajsj18).
+#### You may also like:
+
+- [How to Create Header Files in C++](https://blog.yuvv.xyz/how-to-create-header-files-in-cpp)
+- [Modern C++ Features](https://blog.yuvv.xyz/modern-cpp-features)
+- [Comprehensions in Python: Explained](https://blog.yuvv.xyz/comprehensions-in-python-explained)
+- [Linux Commands Reference With Examples](https://blog.yuvv.xyz/linux-commands-reference-with-examples)
+
+Connect with me on [Twitter](https://twitter.com/yuvraajsj18), [GitHub](https://github.com/yuvraajsj18), and [LinkedIn](https://www.linkedin.com/in/yuvraajsj18/).
 
 **Thanks for reading**
 
