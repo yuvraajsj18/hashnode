@@ -475,5 +475,21 @@ If you don't have any, the easiest to start with will be WSL in my opinion as yo
     variable_name="value"
     ```
 
-#### Thanks
 
+### Thanks For Reading 😊
+
+If you found this article helpful, please like and share!
+Feedbacks are welcome in the comments.
+
+---
+
+
+
+#### You may also like:
+
+- [The Mutable Default Argument Mess in Python](https://blog.yuvv.xyz/the-mutable-default-argument-mess-in-python)
+- [Modern C++ Features](https://blog.yuvv.xyz/modern-cpp-features)
+- [What Happens When You Run a Computer Program?](https://blog.yuvv.xyz/what-happens-when-you-run-a-computer-program)
+- [Comprehensions in Python: Explained](https://blog.yuvv.xyz/comprehensions-in-python-explained)
+
+Connect with me on [Twitter](https://twitter.com/yuvraajsj18), [GitHub](https://github.com/yuvraajsj18), and [LinkedIn](https://www.linkedin.com/in/yuvraajsj18/).
