@@ -208,3 +208,4 @@ Feedbacks are welcome in the comments.
 Connect with me on [Twitter](https://twitter.com/yuvraajsj18), [GitHub](https://github.com/yuvraajsj18), and [LinkedIn](https://www.linkedin.com/in/yuvraajsj18/).
 
 This article is inspired by a presentation I gave with my friend [Manmeet Brar](https://www.instagram.com/manmeet_brar_._/) in my Computer Network class.
+You can find the presentation here: [slideshare](https://www.slideshare.net/YuvraajSinghJadon/internet-239539082)
