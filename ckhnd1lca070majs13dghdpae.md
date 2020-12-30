@@ -35,7 +35,7 @@ append()
 
 
 
-# Why this happened?
+# Why did this happened?
 
 The reason this happened is that Python defines its default argument *only once when the function is first defined.*
 
