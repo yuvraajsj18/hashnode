@@ -1,4 +1,4 @@
-## Do You Understand the Internet?
+## This is how the Internet Works
 
 We use the internet on a daily basis. Our phones, laptops, computers, all connected to the internet. But how the internet works? 
 
