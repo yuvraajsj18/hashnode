@@ -151,4 +151,6 @@ Here are a few project ideas for beginners to try out localStorage:
 - Notes App
 - Shopping List App
 
+Note: Just because you can store any information in local storage doesn't mean you should. Never store sensitive data in local storage as any third party js code would be able to access it, increasing the security risk. (Thanks to [@apoorvtyagi](https://hashnode.com/@apoorvtyagi) for questioning about the security of local storage)
+
 I hope you found this article helpful! Thanks for reading.
