@@ -493,6 +493,8 @@ print(d2)    # {1: 'B', 2: 'y', 3: 'e'}
 
 **Enumerate** function returns a key: value pair using the iterable passed to it and the start value.
 
+You can learn more about comprehensions in Python in this article: [Comprehension in Python: Explained](https://blog.yuvraj.tech/comprehensions-in-python-explained).
+
 > Highlights:
 - Use dict comprehension to perform operations on key-value pairs of a dictionary in a concise way.
 
