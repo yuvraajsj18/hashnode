@@ -81,12 +81,12 @@ A dictionary can store any type of value including another dictionary. Let's cha
 harry_info = {
     "name": "Harry",
     "age": 11,
-    **"house": {
+    "house": {
       "name": "Gryffindor",
       "Animal": "Lion",
       "Element": "Fire"   
     },
-    "friends": ["Ron", "Hermione"]**
+    "friends": ["Ron", "Hermione"]
 }
 
 print(harry_info)
