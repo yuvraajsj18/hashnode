@@ -4,6 +4,8 @@
 
 The problem is simple to understand, we are given an integer and we need to convert it into a Roman numeral.
 
+**Difficulty**: Medium
+
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D, and M.
 
 **Conversion Table**
