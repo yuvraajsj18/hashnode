@@ -236,6 +236,10 @@ The solution is accepted on Leetcode:
 ![result](https://cdn.hashnode.com/res/hashnode/image/upload/v1640799638452/Gb5nJLzuZ.png)
 
 
+## Try it Out
+
+<iframe style='max-width:100%; border: none' height=375 width=700 src=https://www.interviewbit.com/embed/snippet/c17de0136e0c0275450a title='Interviewbit Ide snippet/c17de0136e0c0275450a' loading="lazy" allow="clipboard-write" allowfullscreen/>
+
 ## Conclusion
 
 - We converted an integer to a roman numeral using a recursive and a non-recursive solution.
