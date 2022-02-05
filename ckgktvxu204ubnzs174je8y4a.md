@@ -365,6 +365,7 @@ C++ has more amazing and modern features contrary to the belief that it is an ol
 
 ---
 
+If you want to learn C++ from basic to advanced, do check out the [C++ course from Scaler Topics](https://www.scaler.com/topics/cpp/).
 
 
 #### You may also like:
