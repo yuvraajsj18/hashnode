@@ -365,6 +365,14 @@ C++ has more amazing and modern features contrary to the belief that it is an ol
 
 ---
 
+#### Read more on Scaler Topics
+
+[Abstract Classes in C++](https://www.scaler.com/topics/abstract-class-in-cpp/)
+[Virtual Base Class in C++](https://www.scaler.com/topics/virtual-base-class-in-cpp/)
+[Difference Between C and C++](https://www.scaler.com/topics/difference-between-c-and-cplusplus/)
+[Constructor and Destructor in C++](https://www.scaler.com/topics/constructor-and-destructor-in-cpp/)
+
+
 If you want to learn C++ from basic to advanced, do check out the [C++ course from Scaler Topics](https://www.scaler.com/topics/cpp/).
 
 
